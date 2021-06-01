@@ -10,3 +10,9 @@ Mobile version has not yet been implemented
 ### Links
 
 - Live Site URL: (https://stats-preview-card-component-frontmentor.netlify.app/)
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS grid
+- Flexbox
