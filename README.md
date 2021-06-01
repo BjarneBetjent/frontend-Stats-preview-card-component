@@ -6,3 +6,7 @@ Mobile version has not yet been implemented
 ### Screenshot
 
 ![](./screenshot.jpg)
+
+### Links
+
+- Live Site URL: (https://stats-preview-card-component-frontmentor.netlify.app/)
